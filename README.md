@@ -2,7 +2,7 @@
 ‎‎‎‎‏‏‎‏‎‏‎‎‏‎‏‎‏‎‏‎ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ‏‎‏‎[WEBSITE](https://kichi779.com/) ‏‎‏‎‏‎[DISCORD](https://discord.gg/3Wp3amnNr3)
 
 ### No need for a proxy. ⚠️
-### Please leave a star for the project. This project is free and open source. ⭐ You can leave a star from the top right. ⭐.
+### Please leave a star for the project. This project is free and open source. ⭐ You can leave a star from the top right. ⭐..
 
 
 This software allows you to send viewers to your Twitch live stream without the need for a proxy. The way it works is through Selenium, which enters proxy sites, types the channel name, and then reduces the stream quality to 160p. This allows you to connect to the live stream as a viewer through a proxy without having to pay for one..
@@ -48,31 +48,32 @@ pip install -r requirements.txt (Or you can click on install.bat file)
 
 - If the audience delivery takes too long and sends only a few viewers, close the client and reopen it, then repeat the same steps. (Proxy sites can sometimes slow down.)
 
-  # [![kichi779shoppanel](https://github.com/Kichi779/Twitch-Chat-Bot/assets/92625816/e78969b1-80e0-4349-9d0f-872563ba0a14)](https://kichi779.com/)
-  ‎‎‎‎‏‏‎‏‎‏‎‎‏‎‏‎‏‎‏‎ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ‏‎‏‎‏‎[WEBSITE](https://kichi779.com/) ‏‎‏‎‏‎[DISCORD](https://discord.gg/3Wp3amnNr3)
-  ## Boost Your Twitch, YouTube, Instagram, and Spotify Accounts with Our SMM Panel!
-‏‎
-![Animation4](https://github.com/Kichi779/Twitch-Viewer-Bot/assets/92625816/55cde7e4-1579-448e-9fab-a012b7add597)
-
-
-- Twitch Chat TOKENS
-- Twitch Followers & Views: Enhance your Twitch channel with genuine followers and views to increase your visibility and attract more organic growth.
-- YouTube Subscribers, Likes & Views: Boost your YouTube channel with real subscribers, likes, and views to improve your engagement and ranking.
-- Instagram Followers, Likes & Comments: Grow your Instagram profile with authentic followers, likes, and comments to strengthen your online presence and influence.
-- Spotify Plays & Followers: Increase your Spotify plays and followers to get your music heard by a wider audience and climb the charts.
--  ### AND MORE
-
-
 
 # Stars ⭐
 - Send more viewers and monetize ads / 50 Star ⭐ ✔️ 17.05.2023
 - It automatically lowers the broadcast quality and prevents the audience drop. / 100 Star ⭐⭐⭐ ✔️ 19.08.2023
 
+# Support Me 🙋‍♂️
+🚀 If you want to support me and help take this project even further, you can follow my GitHub account by clicking the link below! 🔗
+
+I share these projects completely for free 🎁, and it only takes 10 seconds to follow! ⏳
+
+Even if you don’t follow, just visiting the link and skipping the ads helps me out! 🙌
+
+👉 [[SUPPORT ME]](https://lnk.news/eP)
+
+Thanks for your support! ❤️🔥
+
+
 # ⚠️Legal⚠️
 
-The software designed to perform website security testing. The author is not responsible for any illegal use of these programs. This is 100% educational, please do not misuse this tool. 
+This software is designed solely for educational and security research purposes, specifically for website security testing. The author is not responsible for any misuse, illegal activity, or unauthorized access carried out using this tool. By using this software, you acknowledge that any consequences resulting from improper or unethical use are your sole responsibility.
 
-If there is a legal problem, please contact my e-mail address. 
+This software operates using Selenium, an automation framework, and does not collect, store, or process any personal data or sensitive information. It is strictly an automated system designed for legitimate security testing.
+
+Furthermore, this tool has been developed as an educational resource to help users understand data mining algorithms, brute-force attack concepts, and automated testing techniques in an ethical and controlled environment. Any misuse, unauthorized access, or illegal application of this tool is strictly prohibited.
+
+If you have any legal concerns, please contact me via email.
 
 kichi779@protonmail.com
 
